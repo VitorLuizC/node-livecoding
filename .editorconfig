@@ -1,0 +1,13 @@
+root = true
+
+# Definições do Editor para todos os arquivos desse projeto.
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Definições de identação para os arquivos JavaScript.
+[*.{js,json}]
+indent_size = 2
+indent_style = space

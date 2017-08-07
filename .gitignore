@@ -1,0 +1,4 @@
+# Não é uma prática boa versionar o arquivo com os módulos do Node.js, eles são
+# pesados e podem gerar conflitos, pois a instalação deles pelo NPM leva em
+# consideração o computador, sistema operacional e coisas do tipo.
+node_modules
