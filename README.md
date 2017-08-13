@@ -13,11 +13,14 @@ libs e aplicações MVC*.
 Pragmática.
 
 ### Primeira Aula
-- Sobre o Node.js
-- Módulos
-- NPM
-- CommonJS
-    - Namespaces
-    - Funções
-    - Classes
-- Lendo dados da API dos correios
+
+_Abstraí a instalação do Node.js._
+
+- [Node.js][1]
+- [NPM][2]
+- [Módulos][3]
+- Exercício: Lendo dados da API dos correios
+
+[1]: ./doc/1.%20Node.js.md
+[2]: ./doc/2.%20NPM.md
+[3]: ./doc/3.%20Módulos.md
