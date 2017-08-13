@@ -19,7 +19,7 @@ _Abstraí a instalação do Node.js._
 - [Node.js][1]
 - [NPM][2]
 - [Módulos][3]
-- Exercício: Lendo dados da API dos correios
+- Exercício: Calcular frete com a API dos Correios
 
 [1]: ./doc/1.%20Node.js.md
 [2]: ./doc/2.%20NPM.md
