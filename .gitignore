@@ -2,3 +2,6 @@
 # pesados e podem gerar conflitos, pois a instalação deles pelo NPM leva em
 # consideração o computador, sistema operacional e coisas do tipo.
 node_modules
+
+# É importante ignorar os arquivos de configuração de pastas que o MacOSx usa
+.DS_Store
