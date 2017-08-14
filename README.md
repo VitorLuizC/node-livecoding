@@ -14,13 +14,19 @@ Pragmática.
 
 ### Primeira Aula
 
-_Abstraí a instalação do Node.js._
-
 - [Node.js][1]
 - [NPM][2]
 - [Módulos][3]
-- Exercício: Calcular frete com a API dos Correios
+- [Exercício: Calcular frete com a API dos Correios][4]
+
+#### Comentários adicionais
+
+- Abstraí a instalação do Node.js;
+- Ficou faltando uma explicação mais detalhada de como funcionam os eventos que
+  descrevi como a ferramenta que possibilita parte da assíncronia do Node.js.
+  Essa explicação pode ser encontrada no [primeiro documento sobre Node.js][1].
 
 [1]: ./doc/1.%20Node.js.md
 [2]: ./doc/2.%20NPM.md
 [3]: ./doc/3.%20Módulos.md
+[4]: ./exercise/first-class
